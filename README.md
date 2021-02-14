@@ -1,8 +1,8 @@
 <div>
-<h2>Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/Shivaansh-Agarwal">Chandra Prakash</a> !</h2>
+<h2>Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="http://www.github.com/Chandra0505">Chandra Prakash</a> !</h2>
 </div>
 
-<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://www.accenture.com/in-en"><img alt="Accenture" height="15px" width="60px" src=resources/logos/temenos.png /></a></em>
+<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://www.accenture.com/in-en"><img alt="Accenture" height="15px" width="60px" src=resources/logos/accenture.png /></a></em>
 <br>
 <em>🌏 Gurugram, India 🇮🇳</em>
 
