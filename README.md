@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Chandra0505.SChandra0505)
 
-[<img align="right" alt="IBM Badge" width="150px" src="resources/logos/Data_Science_4-Star_Graduate.png">](https://www.youracclaim.com/badges/1de4e24e-996d-4795-b028-4a31498cc92f/linked_in_profile)
+[<img align="right" alt="IBM Badge" width="150px" src="resources/logos/Data_Science_4-Star_Graduate.png">](https://www.credly.com/badges/a450f76c-0d9f-4672-af37-aa2fe1a73842/public_url/linked_in_profile)
 
 - 👨🏽‍💻 &nbsp; Currently working with Python Java, MySQL, Django, Node.
 - 🚀 &nbsp; Currently learning Full Stack Development using MERN Stack.
